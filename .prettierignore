@@ -1,0 +1,6 @@
+.husky
+.netlify
+public
+*.scss
+*.md
+.prettierignore
